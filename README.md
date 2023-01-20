@@ -3,6 +3,7 @@
 <img src="./logo.png">
 
 > :warning: **F1DB has been rebranded to OnlyF1 DB and can now be found at [onlyf1com/onlyf1-db](https://github.com/onlyf1com/onlyf1-db)**
+> :warning: **Also old release artifacts can be found at the new location.**
 
 ## What is F1DB?
 
