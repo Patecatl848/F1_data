@@ -1,3 +1,5 @@
+> :warning: **F1DB has been rebranded to OnlyF1 DB and can now be found at [onlyf1com/onlyf1-db](https://github.com/onlyf1com/onlyf1-db)**
+
 <img src="./logo.png">
 
 ## What is F1DB?
